@@ -1,0 +1,18 @@
+
+
+.container {
+        box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.5);
+        justify-content: space-around;
+        margin:7% 10%;
+        background-color: rgb(221, 211, 211);
+}
+
+button.btn {
+    background: blue;
+    color: white;
+    width: 96px;
+    border: none;
+    height: 35px;
+    border-radius: 10px;
+    margin: 15px 0px;
+}
